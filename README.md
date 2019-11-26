@@ -8,8 +8,7 @@
 
 A Nova field for uploading File, Image and Video using [Filepond](https://github.com/pqina/filepond).
 
-# Installation
-
+# Installation:
 You can install the package via composer:
 
 ```
